@@ -70,11 +70,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 Vague Prompt: "Write a story about a character who learns something new."
 Improved Prompt: "Write a 500-word story about a 10-year-old girl who learns to play the guitar and discovers a new passion. Include a descriptive scene of her first guitar lesson and a dialogue with her teacher."
-The improved prompt is more effective because it provides specific details about the story, including:
-- Age and gender of the protagonist
-- Specific skill or knowledge being acquired
-- Word count and desired tone
-- Specific scenes and characters to include
+The improved prompt is more effective because it provides specific details about the story.
 
 
 
